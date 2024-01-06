@@ -15,7 +15,7 @@
 
 🎓 I'm pursuing a Bachelor of Engineering with a degree in Computer Science.
 
-🚀 I built a website called [vtulife](https://www.vtulife.in/), which helps students from VTU university to achieve maximum productivity.
+🚀 I have built lots of project based on web development by using framework such as Django, Next Js etc
 
 🎊  I'm also part of exciting communities like Microsoft Student Club, TedX CIT.
 
