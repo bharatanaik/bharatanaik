@@ -1,4 +1,6 @@
-![Bharat Naik](img/giphy.gif)
+<div align="center">
+    <img src="img/giphy.gif">
+</div>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/bharatnaik/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
